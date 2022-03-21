@@ -17,3 +17,11 @@
 8-print_array.c - Write a function that prints n elements of an array of integers, followed by a new line.
 
 9-strcpy.c - Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+
+100-atoi.c - Write a function that convert a string to an integer.
+
+101-keygen.c - Create a program that generates random valid passwords for the program 101-crackme.
+
+_putchar.c - writes the character c to stdout
+
+main.h - The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
