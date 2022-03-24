@@ -14,4 +14,4 @@ main.h - The prototypes of all your functions and the prototype of the function 
 
 6-cap_string.c - Write a function that capitalizes all words of a string.
 
-
+7-leet.c - Write a function that capitalizes all words of a string.
