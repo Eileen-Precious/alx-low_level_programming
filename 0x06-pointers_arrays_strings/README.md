@@ -18,4 +18,6 @@ main.h - The prototypes of all your functions and the prototype of the function 
 
 100-rot13.c - Write a function that encodes a string using rot13.
 
+101-print_number.c - Write a function that prints an integer.
+
 
