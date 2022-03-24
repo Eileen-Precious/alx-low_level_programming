@@ -10,4 +10,6 @@ main.h - The prototypes of all your functions and the prototype of the function 
 
 4-rev_array.c - Write a function that reverses the content of an array of integers.
 
+5-string_toupper.c - Write a function that changes all lowercase letters of a string to uppercase.
+
 
