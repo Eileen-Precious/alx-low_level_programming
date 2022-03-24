@@ -20,4 +20,6 @@ main.h - The prototypes of all your functions and the prototype of the function 
 
 101-print_number.c - Write a function that prints an integer.
 
+102-magic.c - Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
+
 
