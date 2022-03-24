@@ -4,3 +4,6 @@ main.h - The prototypes of all your functions and the prototype of the function 
 
 0-strcat.c - Write a function that concatenates two strings.
 
+1-strncat.c - Write a function that concatenates two strings.
+
+2-strncpy.c - Write a function that copies a string.
