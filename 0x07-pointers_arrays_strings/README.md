@@ -10,4 +10,6 @@
 
 5-strstr.c - Write a function that locates a substring.
 
+7-print_chessboard.c - Write a function that prints the chessboard.
+
 
